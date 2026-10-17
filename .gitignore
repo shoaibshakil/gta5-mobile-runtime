@@ -1,0 +1,49 @@
+# Dependencies and caches
+node_modules/
+.sass-cache/
+__pycache__/
+*.pyc
+apktool.jar
+
+# Heavy game assets and unpacked game data (DO NOT upload to GitHub!)
+*.rpf
+*.zip
+*.7z
+*.tar
+*.gz
+GTA V CUTRIP V2 optijuegos.net/
+website/
+apk_decompiled/
+jadx_src/
+jadx_tool/
+temp_dex/
+test_classes/
+
+# Large compiled binaries and logs
+*.dex
+*.cwasm
+*.log
+crash_analysis.txt
+live_monitor.log
+
+# Temporary inspection dumps
+*.txt
+dump_*.py
+inspect_*.py
+clean_dump.py
+find_smali.py
+patch_launcher.py
+temp_*
+
+# Keystores & keys
+*.keystore
+*.pk8
+*.pem
+*.idsig
+
+# Android Studio / OS
+.idea/
+.gradle/
+build/
+.DS_Store
+Thumbs.db
