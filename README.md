@@ -36,7 +36,7 @@ Standard GTA V requires over 100 GB of storage and 8+ GB of VRAM. This specializ
 | **OS** | Android 10.0 or higher | Android 12 / 13 / 14 |
 | **SoC / Chipset** | MediaTek Helio G80 / Snapdragon 680 | MediaTek Helio G99 / Dimensity 700+ / Snapdragon 778G+ / Dimensity 8300+ |
 | **GPU** | ARM Mali-G52 / Adreno 610 | ARM Mali-G57, G68, G77, G615 / Adreno 642L+ |
-| **RAM** | 4 GB Physical RAM + Virtual zRAM | 6 GB – 8 GB Physical RAM |
+| **RAM** | 4 GB Physical RAM + Virtual zRAM | 6 GB – 12 GB Physical RAM |
 | **Storage** | 15 GB free internal storage | 25 GB free internal storage |
 ---
 ## 📥 Download & Official Community
