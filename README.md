@@ -1,4 +1,4 @@
-# Los Santos Mobile Runtime (GTA V Android WebPort — Compressed Edition)
+# (GTA V Android WebPort — Compressed Edition)
 [![Platform](https://img.shields.io/badge/Platform-Android%2010%2B-green.svg)](https://android.com)
 [![Architecture](https://img.shields.io/badge/Architecture-ARM64--v8a-blue.svg)](https://arm.com)
 [![Graphics API](https://img.shields.io/badge/Graphics-Vulkan%20%2F%20WebGPU-red.svg)](https://vulkan.org)
